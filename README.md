@@ -48,16 +48,11 @@ Pending final analysis, the project aims to:
 - Wei Kang Wong
 - Sabika Amalina
 
-Supervised by: Harm Lameris
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
