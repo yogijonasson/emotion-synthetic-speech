@@ -1,6 +1,5 @@
 # Emotion Perception in Synthetic Speech: The Influence of Pitch and Semantics
 
----
 
 ## About The Project
 
@@ -14,9 +13,6 @@ Key hypothesis:
 - Investigate the impact of pitch and semantic sentiment on emotional perception.
 - Isolate pitch as a critical factor using the **SoToSpeak interface**.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
 
 ## Methodology
 
@@ -35,9 +31,7 @@ Generated using the **SoToSpeak interface**:
 - Responses analyzed using repeated-measures ANOVA.
 - Additional descriptive analysis of optional responses.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 
 ## Results
 
@@ -45,9 +39,6 @@ Pending final analysis, the project aims to:
 - Identify patterns in emotional perception tied to pitch and semantics.
 - Confirm or refute the hypothesis that pitch independently influences emotion classification.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
 
 ## Contributors
 
@@ -61,7 +52,6 @@ Supervised by: Harm Lameris
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 
 ## License
 
@@ -69,12 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
-
 ## Acknowledgments
 
 - [SoToSpeak Interface]([https://github.com/SoToSpeakInterface/SoToSpeak](https://github.com/evaszekely/So_To_Speak))
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
