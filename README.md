@@ -73,16 +73,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- [SoToSpeak Interface](https://github.com/SoToSpeakInterface/SoToSpeak)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Font Awesome](https://fontawesome.com)
+- [SoToSpeak Interface]([https://github.com/SoToSpeakInterface/SoToSpeak](https://github.com/evaszekely/So_To_Speak))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best
