@@ -1,21 +1,4 @@
----
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <h3 align="center">Emotion Perception in Synthetic Speech: The Influence of Pitch and Semantics</h3>
-
-  <p align="center">
-    A project investigating how pitch and semantics influence emotion perception in synthetic speech.
-    <br />
-    <a href="#about-the-project"><strong>Explore the project »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/SoToSpeakInterface/SoToSpeak">View SoToSpeak Interface</a>
-  </p>
-</div>
-
----
+Emotion Perception in Synthetic Speech: The Influence of Pitch and Semantics
 
 <!-- TABLE OF CONTENTS -->
 <details>
