@@ -1,10 +1,4 @@
-Emotion Perception in Synthetic Speech: The Influence of Pitch and Semantics
 ---
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
