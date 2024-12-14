@@ -1,60 +1,60 @@
 # Emotion Perception in Synthetic Speech: The Influence of Pitch and Semantics
 
-
 ## About The Project
-
 Emotions in speech are shaped by prosody, such as pitch, and semantic sentiment, which defines the emotional tone of content. This project examines the interaction between these factors to understand their influence on emotion perception in synthetic speech.
 
-Key hypothesis: 
-- Higher pitch conveys happiness, even when semantic content is negative.
-- Lower pitch conveys sadness, irrespective of semantic meaning.
+## Key Hypotheses:
+1. Higher pitch conveys happiness, even when semantic content is negative.
+2. Lower pitch conveys sadness, irrespective of semantic meaning.
+3. High pitch and neutral sentiment convey happiness.
+4. Low pitch and neutral sentiment convey sadness.
 
-### Objectives
+## Objectives
 - Investigate the impact of pitch and semantic sentiment on emotional perception.
-- Isolate pitch as a critical factor using the **SoToSpeak interface**.
-
+- Isolate pitch as a critical factor using the SoToSpeak interface.
 
 ## Methodology
-
 ### Experiment Design
 - **Within-subjects design** with six conditions:
   - Combinations of high/low pitch and positive/neutral/negative semantics.
 - Participants classified perceived emotions (happy, sad, neutral) and optionally chose additional descriptors.
 
 ### Speech Samples
-Generated using the **SoToSpeak interface**:
-- Positive: "I got promoted today."
-- Neutral: "I’ll be here tomorrow."
-- Negative: "I lost my job."
+Generated using the SoToSpeak interface:
+- **Positive:** "I got promoted today."
+- **Neutral:** "I’ll be here tomorrow."
+- **Negative:** "I lost my job."
+
+### Example Audio Files
+Below are examples of speech samples used for the experiment under each condition:
+
+1. **High Pitch + Positive Sentiment:** [Audio File](#)  
+2. **Low Pitch + Positive Sentiment:** [Audio File](#)  
+3. **High Pitch + Neutral Sentiment:** [Audio File](#)  
+4. **Low Pitch + Neutral Sentiment:** [Audio File](#)  
+5. **High Pitch + Negative Sentiment:** [Audio File](#)  
+6. **Low Pitch + Negative Sentiment:** [Audio File](#)  
+
+*(Upload the audio files to your GitHub repository and replace `#` with the file URLs.)*
 
 ### Analysis
 - Responses analyzed using repeated-measures ANOVA.
 - Additional descriptive analysis of optional responses.
 
-
-
 ## Results
-
 Pending final analysis, the project aims to:
 - Identify patterns in emotional perception tied to pitch and semantics.
 - Confirm or refute the hypothesis that pitch independently influences emotion classification.
 
-
 ## Contributors
-
 - Yogie Permana
 - Oskar Lövgren
 - Pin-Ju Huang
 - Wei Kang Wong
 - Sabika Amalina
 
-
 ## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
-
-- [SoToSpeak Interface]([https://github.com/SoToSpeakInterface/SoToSpeak](https://github.com/evaszekely/So_To_Speak))
-
+Special thanks to the creators of the SoToSpeak Interface for providing the tools necessary for this research.
