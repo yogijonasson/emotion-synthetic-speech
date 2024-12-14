@@ -21,7 +21,7 @@ Emotions in speech are shaped by prosody, such as pitch, and semantic sentiment,
 
 ### Speech Samples
 Generated using the SoToSpeak interface:
-- **Positive:** "He won the lottery yesterday."
+- **Positive:** "She won the lottery yesterday."
 - **Neutral:** "I’ll be here tomorrow."
 - **Negative:** "He lost a huge sum of money."
 
