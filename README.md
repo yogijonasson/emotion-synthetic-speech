@@ -21,21 +21,20 @@ Emotions in speech are shaped by prosody, such as pitch, and semantic sentiment,
 
 ### Speech Samples
 Generated using the SoToSpeak interface:
-- **Positive:** "I got promoted today."
+- **Positive:** "He won the lottery yesterday."
 - **Neutral:** "I’ll be here tomorrow."
-- **Negative:** "I lost my job."
+- **Negative:** "He lost a huge sum of money."
 
 ### Example Audio Files
 Below are examples of speech samples used for the experiment under each condition:
 
-1. **High Pitch + Positive Sentiment:** [Audio File](#)  
-2. **Low Pitch + Positive Sentiment:** [Audio File](#)  
-3. **High Pitch + Neutral Sentiment:** [Audio File](#)  
-4. **Low Pitch + Neutral Sentiment:** [Audio File](#)  
-5. **High Pitch + Negative Sentiment:** [Audio File](#)  
-6. **Low Pitch + Negative Sentiment:** [Audio File](#)  
+1. **High Pitch + Positive Sentiment:** [Audio File](https://github.com/wwongwk/emotion-synthetic-speech/blob/main/audio/P5_high_4.1.wav)  
+2. **Low Pitch + Positive Sentiment:** [Audio File](https://github.com/wwongwk/emotion-synthetic-speech/blob/main/audio/P5_low_3.9.wav)  
+3. **High Pitch + Neutral Sentiment:** [Audio File](https://github.com/wwongwk/emotion-synthetic-speech/blob/main/audio/NT1_high_3.7.wav)  
+4. **Low Pitch + Neutral Sentiment:** [Audio File](https://github.com/wwongwk/emotion-synthetic-speech/blob/main/audio/NT1_low_4.1.wav)  
+5. **High Pitch + Negative Sentiment:** [Audio File](https://github.com/wwongwk/emotion-synthetic-speech/blob/main/audio/NG5_high_3.6.wav)  
+6. **Low Pitch + Negative Sentiment:** [Audio File](https://github.com/wwongwk/emotion-synthetic-speech/blob/main/audio/NG5_low_4.1.wav)  
 
-*(Upload the audio files to your GitHub repository and replace `#` with the file URLs.)*
 
 ### Analysis
 - Responses analyzed using repeated-measures ANOVA.
@@ -52,9 +51,6 @@ Pending final analysis, the project aims to:
 - Pin-Ju Huang
 - Wei Kang Wong
 - Sabika Amalina
-
-## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
 Special thanks to the creators of the SoToSpeak Interface for providing the tools necessary for this research.
